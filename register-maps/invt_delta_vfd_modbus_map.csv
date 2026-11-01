@@ -1,0 +1,16 @@
+vfd_brand,model_series,register_hex,register_dec,function_code,parameter_name,data_type,scale_factor,unit,access
+INVT,GD20/GD200A,0x2000,8192,06,Control_Command,UInt16,1,Enum,RW
+INVT,GD20/GD200A,0x2001,8193,03/06,Frequency_Setpoint,UInt16,0.01,Hz,RW
+INVT,GD20/GD200A,0x3000,12288,03,Output_Frequency,UInt16,0.01,Hz,RO
+INVT,GD20/GD200A,0x3002,12290,03,DC_Bus_Voltage,UInt16,0.1,V,RO
+INVT,GD20/GD200A,0x3003,12291,03,Output_Voltage,UInt16,1,V,RO
+INVT,GD20/GD200A,0x3004,12292,03,Output_Current,UInt16,0.1,A,RO
+INVT,GD20/GD200A,0x3005,12293,03,Motor_Speed_RPM,UInt16,1,RPM,RO
+INVT,GD20/GD200A,0x5000,20480,03,Fault_Code,UInt16,1,Code,RO
+Delta,VFD-M/VFD-E/MS300,0x2000,8192,06,Control_Command,UInt16,1,Bitmask,RW
+Delta,VFD-M/VFD-E/MS300,0x2001,8193,03/06,Frequency_Command,UInt16,0.01,Hz,RW
+Delta,VFD-M/VFD-E/MS300,0x2100,8448,03,Error_Code,UInt16,1,Code,RO
+Delta,VFD-M/VFD-E/MS300,0x2103,8451,03,Output_Frequency,UInt16,0.01,Hz,RO
+Delta,VFD-M/VFD-E/MS300,0x2104,8452,03,Output_Current,UInt16,0.1,A,RO
+Delta,VFD-M/VFD-E/MS300,0x2105,8453,03,DC_Bus_Voltage,UInt16,0.1,V,RO
+Delta,VFD-M/VFD-E/MS300,0x2106,8454,03,Output_Voltage,UInt16,0.1,V,RO

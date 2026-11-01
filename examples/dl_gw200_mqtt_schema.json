@@ -1,0 +1,27 @@
+{
+  "gateway_id": "DL-GW200-F01",
+  "model": "DeviceLab DL-GW200",
+  "product_url": "https://devicelab.vn/san-pham/dl-gw200/",
+  "timestamp": "2026-10-17T14:00:00Z",
+  "bus_diagnostics": {
+    "port": "RS485-1 (3.0kV Isolated)",
+    "baudrate": 9600,
+    "parity": "8N1",
+    "online_slaves": [1, 2, 3],
+    "crc_error_rate_pct": 0.0,
+    "cache_hit_latency_ms": 1.4,
+    "offline_flash_records_queued": 0
+  },
+  "slaves": [
+    {
+      "slave_id": 1,
+      "device_type": "INVT_GD200A_VFD",
+      "metrics": {
+        "output_freq_hz": 48.5,
+        "output_current_a": 34.2,
+        "dc_bus_voltage_v": 538.4,
+        "fault_code": 0
+      }
+    }
+  ]
+}
