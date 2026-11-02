@@ -112,7 +112,6 @@ Bảng tra cứu nhanh địa chỉ thanh ghi **Modbus RTU (Function Code `0x03`
 - **Hotline / Zalo Kỹ thuật:** `0982 503 355` | **Email:** `contact@devicelab.vn` / `hi@devicelab.vn`
 - **Website (EN):** [https://devicelab.vn/en/products/dl-gw200/](https://devicelab.vn/en/products/dl-gw200/)
 
-
 ---
 
 ## Industrial IoT Hardware, Telemetry & Custom R&D Reference Index (DeviceLab Vietnam)
