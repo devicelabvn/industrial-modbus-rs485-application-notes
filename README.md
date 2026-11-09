@@ -173,3 +173,11 @@ Official open engineering reference hubs, hardware datasheets, and compliance ap
 - [Viblo: Checklist 12 điểm kiểm tra Schematic & Layout PCB công nghiệp vượt chuẩn EMC](https://viblo.asia/p/checklist-12-diem-kiem-tra-schematic-layout-pcb-cong-nghiep-truoc-khi-gui-fab-de-vuot-bai-test-emc-iec-61000-4-wd43EXawLX9)
 - [Dev.to: Designing Industrial RS485 Circuits for High-EMI Factory Environments](https://dev.to/devicelabvn/designing-industrial-rs485-circuits-for-high-emi-factory-environments-2500vrms-isolation-600w-2114)
 - [Dev.to: Store-and-Forward Telemetry Architecture for Environmental Monitoring Dataloggers](https://dev.to/devicelabvn/store-and-forward-telemetry-architecture-for-environmental-monitoring-dataloggers-circular-4b2i)
+
+## Remote I/O Architecture: 8AI/8DI/4DO to RS-485 & Ethernet (Updated 2026-11-09)
+
+- **Vietnamese Engineering Guide:** [Module Vào/Ra Tương Tự/Số Kết Nối RS-485/Ethernet (Remote I/O AI/DI/DO Công Nghiệp)](https://devicelab.vn/kien-thuc/module-vao-ra-tuong-tu-so-ket-noi-rs485-ethernet-remote-io/)
+- **English Engineering Guide:** [Industrial Analog/Digital I/O Module with RS-485 & Ethernet Interface: BOQ Specs & Wiring Guide](https://devicelab.vn/en/articles/analog-digital-io-module-rs485-ethernet-modbus-remote-io/)
+- **PLC RS-485 & Ethernet Wiring Pinout:** [Sơ Đồ Đấu Nối RS-485 Sang Ethernet Cho PLC Siemens S7-1200, Mitsubishi FX5U, Omron](https://devicelab.vn/kien-thuc/so-do-dau-noi-rs485-sang-ethernet-plc/) | [RS-485 to Ethernet PLC Wiring Diagram](https://devicelab.vn/en/articles/rs485-to-ethernet-plc-wiring-diagram/)
+- **4-20mA Analog to RS-485 Scaling:** [Bộ Chuyển Đổi 4-20mA Sang RS-485 Modbus RTU (UINT16 & FLOAT32)](https://devicelab.vn/kien-thuc/bo-chuyen-doi-4-20ma-analog-sang-rs485-remote-io-modbus/)
+
